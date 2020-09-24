@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+    min-height: 100vh;
+    font-family: 'Comfortaa', cursive;
+}
